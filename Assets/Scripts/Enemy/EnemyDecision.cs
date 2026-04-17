@@ -30,6 +30,12 @@ public class EnemyDecision : MonoBehaviour
 
     void Update()
     {
+        if (GameplayPauseController.IsPaused)
+        {
+            enemyRB.linearVelocity = Vector2.zero;
+            return;
+        }
+
         DecisionMaking();
     }
 
