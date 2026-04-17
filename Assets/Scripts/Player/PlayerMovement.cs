@@ -40,6 +40,12 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+        if (GameplayPauseController.IsPaused)
+        {
+            rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
+            return;
+        }
+
         MoveInLine();
         if (Input.GetKeyDown(KeyCode.K)) Jump();
         if (Input.GetKeyDown(KeyCode.Z)) Sprint();

@@ -39,11 +39,17 @@ public class PlayerAction : MonoBehaviour
 
     void Update()
     {
+        if (GameplayPauseController.IsPaused)
+        {
+            return;
+        }
+
         if (Input.GetKeyDown(KeyCode.Space)) Event_B_Suprise();
     }
 
     public void Event_B_Suprise()
     {
+        if (GameplayPauseController.IsPaused) return;
         if (PlayerProperty.Instance.playerState != PlayerState.Side
         || PlayerProperty.Instance.isSupriseCovered
         || PlayerProperty.Instance.isControlLocked

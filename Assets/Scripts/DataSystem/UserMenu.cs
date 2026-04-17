@@ -32,7 +32,7 @@ public class UserMenu : MonoBehaviour
 
     void Event_B_Continue()
     {
-        Time.timeScale = 1;
+        GameplayPauseController.Resume(GameplayPauseReason.Menu);
         savePanel.gameObject.SetActive(false);
     }
 
@@ -43,7 +43,7 @@ public class UserMenu : MonoBehaviour
     
     void Event_B_Menu()
     {
-        Time.timeScale = 0;
+        GameplayPauseController.Pause(GameplayPauseReason.Menu);
         savePanel.gameObject.SetActive(true);
     }
 }

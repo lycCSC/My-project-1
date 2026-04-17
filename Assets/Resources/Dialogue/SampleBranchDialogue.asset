@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c7d9538afaa4fb0ae5e17826dfec353, type: 3}
+  m_Name: SampleBranchDialogue
+  m_EditorClassIdentifier: 
+  dialogueId: sample-branch-dialogue
+  displayName: 示例分支对话
+  startNodeId: start
+  nodes:
+  - nodeId: start
+    speakerName: 向导
+    message: 欢迎来到新的对话系统。现在战斗和场景推进都已经暂停了。
+    nextNodeId: ask_help
+    isEndNode: 0
+    choices: []
+  - nodeId: ask_help
+    speakerName: 玩家
+    message: 我现在可以测试什么？
+    nextNodeId: 
+    isEndNode: 0
+    choices:
+    - choiceText: 看看系统功能
+      nextNodeId: features
+    - choiceText: 直接结束
+      nextNodeId: goodbye
+  - nodeId: features
+    speakerName: 向导
+    message: 你可以继续推进文本，也可以通过按钮选择不同分支。结束对话后，战斗会恢复。
+    nextNodeId: branch_check
+    isEndNode: 0
+    choices: []
+  - nodeId: branch_check
+    speakerName: 向导
+    message: 如果你想再看一遍流程，可以回到开头；如果已经明白，就结束这次测试。
+    nextNodeId: 
+    isEndNode: 0
+    choices:
+    - choiceText: 我明白了
+      nextNodeId: goodbye
+    - choiceText: 再说一次
+      nextNodeId: start
+  - nodeId: goodbye
+    speakerName: 玩家
+    message: 收到，结束测试。
+    nextNodeId: 
+    isEndNode: 1
+    choices: []
