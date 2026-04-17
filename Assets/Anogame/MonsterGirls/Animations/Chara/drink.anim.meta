@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d394f31ce9ca0d64998c2c5ef881b424
+timeCreated: 1527921455
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/Chara/drink.anim
+  uploadId: 560541

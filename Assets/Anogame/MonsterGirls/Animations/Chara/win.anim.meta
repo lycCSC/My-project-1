@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ff1ee144425cc484da095dc45622757c
+timeCreated: 1527920802
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/Chara/win.anim
+  uploadId: 560541

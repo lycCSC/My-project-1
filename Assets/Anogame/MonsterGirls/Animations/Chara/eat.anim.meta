@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a7a1d40dcb02c6e479c216f4a6462e56
+timeCreated: 1527921119
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/Chara/eat.anim
+  uploadId: 560541

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ead96a7fcd777884a8d9f88a0c2dcf8d
+timeCreated: 1520036121
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/Chara/attack_8.anim
+  uploadId: 560541

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2e0b931de21ceb447b75e6b645e71c60
+timeCreated: 1527684002
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/Chara/orb_8.anim
+  uploadId: 560541

@@ -1,0 +1,52 @@
+# Unity generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Unity3D generated meta files are only required for non-empty folders
+# Empty folders should be omitted from source control
+
+# Auto generated VS/MD solution and project files
+ExportedObj/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity3D generated file on crash reports
+sml.log
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Compressed Assets
+Assets.zip
+
+# VSCode
+.vscode/
+
+# Other
+.utmp/

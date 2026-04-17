@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a9809dd7cc39c0940a1d922ff6193a92
+timeCreated: 1527922121
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/Chara/book.anim
+  uploadId: 560541

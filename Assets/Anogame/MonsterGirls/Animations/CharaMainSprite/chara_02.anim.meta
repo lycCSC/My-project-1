@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 74f35a61e156c6048a8efdc25be2c8aa
+timeCreated: 1530706608
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/CharaMainSprite/chara_02.anim
+  uploadId: 560541

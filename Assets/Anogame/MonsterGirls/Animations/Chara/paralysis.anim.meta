@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 66f1d3512f8936743990d2bfef91cddd
+timeCreated: 1532611510
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/Chara/paralysis.anim
+  uploadId: 560541

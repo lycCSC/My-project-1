@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "UIInputAction",
+    "maps": [
+        {
+            "name": "Scored",
+            "id": "41133cc2-301a-4447-aedd-d3e03ed175ff",
+            "actions": [
+                {
+                    "name": "Scored",
+                    "type": "Button",
+                    "id": "d4ffebc8-d3f2-4cfb-83a4-be658abc5368",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d0d55da8-5042-4695-8cc1-094fe39f46a8",
+                    "path": "<Keyboard>/space",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Scored",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

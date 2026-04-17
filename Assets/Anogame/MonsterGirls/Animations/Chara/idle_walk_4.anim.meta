@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d369f4d52894f4d448a55facd12be00a
+timeCreated: 1532507418
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/Chara/idle_walk_4.anim
+  uploadId: 560541

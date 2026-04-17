@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ff5c87756943a4040bc95c7f7cfdf1a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/MonsterGirlsCommon/Scripts/DemoPlayChara.cs
+  uploadId: 560541

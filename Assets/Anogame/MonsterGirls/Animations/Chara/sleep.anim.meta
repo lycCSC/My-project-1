@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 084ff66e6f83a2642a20a2d4087dd3cc
+timeCreated: 1529722841
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/Chara/sleep.anim
+  uploadId: 560541

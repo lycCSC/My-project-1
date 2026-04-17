@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a9793946427fa4f46b9f3c6a1f557c74
+timeCreated: 1520036086
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/Chara/attack_6.anim
+  uploadId: 560541

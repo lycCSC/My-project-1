@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b0c6fe03886050e40b366aa08da6446e
+timeCreated: 1529723396
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/Chara/magic.anim
+  uploadId: 560541

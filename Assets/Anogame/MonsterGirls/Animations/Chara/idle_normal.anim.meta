@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5a2b81c27d35aaa4383a6f142655dd0c
+timeCreated: 1532612819
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/Chara/idle_normal.anim
+  uploadId: 560541

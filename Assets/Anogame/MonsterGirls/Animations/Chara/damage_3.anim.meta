@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ddc1ee7fbaf3149469beef886e6b4331
+timeCreated: 1529720533
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/Chara/damage_3.anim
+  uploadId: 560541

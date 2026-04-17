@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 454b8b253ce0006459a729c91eb16199
+timeCreated: 1519436366
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/Chara/idle_grand_9.anim
+  uploadId: 560541

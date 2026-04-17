@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a4e6eb3eff911464b850e7c02de2ed5c
+timeCreated: 1530706382
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/CharaMainSprite/CharaMainSprite.controller
+  uploadId: 560541

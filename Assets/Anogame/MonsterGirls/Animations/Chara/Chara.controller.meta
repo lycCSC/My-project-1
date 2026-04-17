@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 26e4c07107f8d9942acf83c3e8458486
+timeCreated: 1518792010
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212924
+  packageName: MonsterGirlsSeries01
+  packageVersion: 1.0.0
+  assetPath: Assets/Anogame/MonsterGirls/Animations/Chara/Chara.controller
+  uploadId: 560541
